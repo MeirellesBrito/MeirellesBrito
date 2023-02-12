@@ -198,19 +198,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
 <br />
 
-<!-- CONTRIBUTION:START -->
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/MeirellesBrito/MeirellesBrito/output/github-snake.svg" alt="Contribution Graph" />
-</div>
-
 <!-- CONTRIBUTION:END -->
 
-
-<!-- VIEW-COUNT:START -->
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=MeirellesBrito&&style=flat-square" alt="Profile views count"/>
-</div>
 
 <!-- VIEW-COUNT:END -->
