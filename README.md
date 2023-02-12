@@ -48,10 +48,10 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
 ## Technologies & Tools
 
-<table width="100%">
+<table>
 
   <tr>
-  <td align="center" width="100%" valign="top">
+  <td align="center" width="50%" valign="top">
 
   ### Frontend
 
@@ -70,7 +70,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
   </td>
 
-  <td align="center"  valign="top">
+  <td align="center" width="50%"  valign="top">
 
   ### Games
 
