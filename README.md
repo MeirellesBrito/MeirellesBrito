@@ -161,7 +161,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" /> -->
 
 </td>
-</tr>
+
 
 <tr>
 <td align="center" valign="top">
@@ -180,24 +180,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
 
 </td>
-<td align="center" valign="top">
 
-<!-- ### Started with
-
-<!-- <img style="margin: 10px" src="assets/lua.svg" alt="Lua" title="Lua" height="50" /> -->
-<!-- <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
-
-### Want to learn
-
-<img style="margin: 10px" src="assets/solidity.svg" alt="Solidity" title="Solidity" height="50" />
-<img style="margin: 10px" src="assets/rust.svg" alt="Rust" title="Rust" height="50" />
-<img style="margin: 10px" src="assets/graphql.svg" alt="GraphQL" title="GraphQL" height="50" /> -->
-
-</td>
-</tr>
-
-</table>
 
 <br/>
 
