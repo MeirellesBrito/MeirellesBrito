@@ -114,16 +114,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 </tr>
 
 <tr>
-<td align="center" valign="top">
 
-<!-- ### Mobile
-
-<img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
-<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
-<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" /> -->
-
-</td>
 <td align="center" valign="top">
 
 ### Cloud & DevOps
@@ -142,7 +133,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 </tr>
 
 <tr>
-<!-- <td align="center" valign="top"> -->
+<td align="center" valign="top">
 
 <!-- ### Hardware
 
@@ -150,18 +141,21 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
 <img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" /> -->
 
-<!-- </td> -->
-<!-- <td align="center" valign="top">
+</td>
+<td align="center" valign="top">
 
 <!-- ### AI
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/keras.svg" alt="Keras" title="Keras" height="50" />
 <img style="margin: 10px" src="assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50" />
-<img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" /> 
+<img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" /> -->
 
-<td align="center" valign="top"> -->
+</td>
 </tr>
+
+<tr>
+<td align="center" valign="top">
 
 ### Tools & IDEs
 
@@ -178,6 +172,9 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
 </td>
 
+</tr>
+
+</table>
 
 <br/>
 
