@@ -101,6 +101,8 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
 
 </td>
+</tr>
+
 <td align="center" valign="top">
 
 ### Database
@@ -112,7 +114,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <!-- <img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" /> -->
 
 </td>
-</tr>
+
 
 <tr>
 
