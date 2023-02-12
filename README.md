@@ -69,6 +69,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <!-- <img style="margin: 10px" src="assets/jquery.svg" alt="jQuery" title="jQuery" height="50" /> -->
 
 </td>
+</tr>
 <td align="center" valign="top">
 
 ### Games
