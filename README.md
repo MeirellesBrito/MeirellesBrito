@@ -51,7 +51,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <table width="100%">
 
   <tr>
-  <td align="center" width="100%" valign="top">
+  <td align="center" width="50%" valign="top">
 
   ### Frontend
 
@@ -70,7 +70,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
   </td>
 
-  <td align="center" width="100%" valign="top">
+  <td align="center" width="50%" valign="top">
 
   ### Games
 
@@ -79,9 +79,10 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/photoshop.svg" alt="Photoshop" title="Photoshop" height="50" /> -->
 
   </td>
+  </tr>
 
 
-  
+  <tr>
   <td align="center" valign="top">
 
   ### Backend
@@ -101,8 +102,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
 
   </td>
-  </tr>
-
+  
   <tr>
   <td align="center" valign="top">
 
