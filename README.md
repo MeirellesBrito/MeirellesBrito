@@ -157,7 +157,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" /> -->
 
 </td>
-<td align="center" valign="top">
+<!-- <td align="center" valign="top"> -->
 
 <!-- ### AI
 
@@ -170,7 +170,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 </tr>
 
 <tr>
-<td align="center" valign="top">
+<!-- <td align="center" valign="top"> -->
 
 </tr>
 
