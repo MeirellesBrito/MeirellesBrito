@@ -51,7 +51,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <table width="100%">
 
   <tr>
-  <td align="center" width="50%" valign="top">
+  <td align="center" width="100%" valign="top">
 
   ### Frontend
 
@@ -83,7 +83,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
 
   <tr>
-  <td align="center" width="50%" valign="top">
+  <td align="center" width="100%" valign="top">
 
   ### Backend
 
@@ -173,12 +173,12 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
   
 
-
+<!-- 
   <tr>
   <td align="center" valign="top">
   </td>
 
-  </tr>
+  </tr> -->
 
 </table>
 
