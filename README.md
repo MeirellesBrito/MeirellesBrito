@@ -103,7 +103,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 
   </td>
   
-  <tr>
+  
   <td align="center" valign="top">
 
   ### Database
@@ -114,11 +114,12 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
   <!-- <img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" /> -->
   </td>
+  </tr>
 
 
 
 
-
+  <tr>
   <td align="center" valign="top">
 
   ### Cloud & DevOps
@@ -134,9 +135,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/aws-rds.svg" alt="AWS RDS" title="AWS RDS" height="50" /> -->
 
   </td>
-  </tr>
 
-  <tr>
   <td align="center" valign="top">
 
   ### Tools & IDEs
@@ -153,6 +152,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
 
   </td>
+  </tr>
   <!-- <td align="center" valign="top"> -->
 
   <!-- ### Hardware
@@ -161,7 +161,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
   <img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" /> -->
 
-  </td>
+  
   <!-- <td align="center" valign="top"> -->
 
   <!-- ### AI
@@ -171,8 +171,8 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50" />
   <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" /> -->
 
-  </td>
-  </tr>
+  
+
 
   <tr>
   <td align="center" valign="top">
