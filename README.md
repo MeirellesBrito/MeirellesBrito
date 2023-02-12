@@ -69,7 +69,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <!-- <img style="margin: 10px" src="assets/jquery.svg" alt="jQuery" title="jQuery" height="50" /> -->
 
   </td>
-  </tr>
+  <tr>
   <td align="center" width="100%" valign="top">
 
   ### Games
@@ -79,7 +79,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/photoshop.svg" alt="Photoshop" title="Photoshop" height="50" /> -->
 
   </td>
-  </tr>
+
 
   <tr>
   <td align="center" valign="top">
@@ -103,6 +103,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   </td>
   </tr>
 
+  <tr>
   <td align="center" valign="top">
 
   ### Database
@@ -112,8 +113,8 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
   <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
   <img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
   <!-- <img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" /> -->
-
   </td>
+  </tr>
 
 
   <tr>
