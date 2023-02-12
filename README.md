@@ -156,8 +156,8 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
 <img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" /> -->
 
-<!-- </td>
-<td align="center" valign="top"> -->
+</td>
+<td align="center" valign="top">
 
 <!-- ### AI
 
@@ -166,11 +166,11 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 <img style="margin: 10px" src="assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50" />
 <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" /> -->
 
-<!-- </td> -->
+</td>
 </tr>
 
 <tr>
-<!-- <td align="center" valign="top"> -->
+<td align="center" valign="top">
 
 </tr>
 
