@@ -26,20 +26,13 @@
 ### Who am I?
 
 <details open>
-<summary><small>EN-US</small></summary>
-
-I'm Fernando Meirelles, I'm 24 years old. I'm studying computer engineering, I'm in the 4th period and I'm going to graduate at the end of 2025. I'm interested in improving my knowledge, and evolving as a professional. I want to act
-(Knowledge is worth more than money
-			
-
-</details>
-
-<details>
 <summary><small>PT-BR</small></summary>
 
-Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computação, estou no 4º periodo e vou me formar no final do ano de 2025. Tenho interese em melhorar o meu conhecimendo, e evoluir como profissional por esse motivo busco sempre fazer cursos para me aperfeiçoar cada vez mais na area em que  quero atuar
-(Conhecimento vale mais que dinheiro
+Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computação, estou no 5º periodo e vou me formar no final do ano de 2025. Tenho interese em melhorar o meu conhecimendo, e evoluir como profissional por esse motivo busco sempre fazer cursos para me aperfeiçoar cada vez mais na area em que  quero atuar
+(Conhecimento vale mais que dinheiro)
+		
 </details>
+
 
 <!-- BIO:END -->
 
