@@ -134,6 +134,7 @@ Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computaçã
 </tr>
 
 <tr>
+<td align="center" valign="top">
 
 ### Tools & IDEs
 
