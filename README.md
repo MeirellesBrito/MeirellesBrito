@@ -28,8 +28,13 @@
 <details open>
 <summary><small>PT-BR</small></summary>
 
-Sou o Fernando Meirelles tenho 24 anos. Estou cursondo engenharia da computação, estou no 5º periodo e vou me formar no final do ano de 2025. Tenho interese em melhorar o meu conhecimendo, e evoluir como profissional por esse motivo busco sempre fazer cursos para me aperfeiçoar cada vez mais na area em que  quero atuar
-(Conhecimento vale mais que dinheiro)
+Meu nome é Fernando Meirelles, tenho 24 anos e atualmente estou cursando Engenharia da Computação, no 5º período. Meu objetivo é me tornar um profissional altamente qualificado na área em que atuo e, por isso, estou sempre buscando maneiras de melhorar meu conhecimento e evoluir como profissional. Acredito que o conhecimento é um ativo valioso e que, ao investir nele, posso me destacar no mercado de trabalho.
+
+Além do meu curso de graduação, estou me dedicando a fazer cursos e participar de projetos para aprimorar minhas habilidades e conhecimentos. Atualmente, estou estudando em plataformas como FlexPark, Alura, Rocketseat, Samsung Ocean e Danki Code, onde aprendo técnicas e ferramentas para me tornar um desenvolvedor mais completo.
+
+Tenho interesse em trabalhar em projetos desafiadores que me permitam aplicar minhas habilidades e conhecimentos, e estou aberto a novas oportunidades que me permitam crescer na carreira. Acredito que a combinação de conhecimento técnico, trabalho em equipe e pensamento criativo são fundamentais para o sucesso em qualquer área de atuação.
+
+Espero poder contribuir para o sucesso da sua equipe e estou à disposição para discutir mais sobre minhas habilidades e experiências.
 		
 </details>
 
