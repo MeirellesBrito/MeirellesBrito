@@ -36,7 +36,7 @@ I am interested in working on challenging projects that allow me to apply my ski
 I hope to contribute to the success of your team and I am available to discuss more about my skills and experiences.
 </details>
 
-<details open>
+<details>
 <summary><small>PT-BR</small></summary>
 
 Meu nome é Fernando Meirelles, tenho 24 anos e atualmente estou cursando Engenharia da Computação, no 5º período. Meu objetivo é me tornar um profissional altamente qualificado na área em que atuo e, por isso, estou sempre buscando maneiras de melhorar meu conhecimento e evoluir como profissional. Acredito que o conhecimento é um ativo valioso e que, ao investir nele, posso me destacar no mercado de trabalho.
