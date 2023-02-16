@@ -24,6 +24,17 @@
 <!-- BIO:START -->
 
 ### Who am I?
+<details open>
+<summary><small>EN-US</small></summary>
+	
+My name is Fernando Meirelles, I am 24 years old and I am currently studying Computer Engineering, in the 5th period. My goal is to become a highly qualified professional in the field I work in, and for that reason, I am always looking for ways to improve my knowledge and evolve as a professional. I believe that knowledge is a valuable asset and by investing in it, I can stand out in the job market.
+
+In addition to my undergraduate course, I am dedicating myself to taking courses and participating in projects to improve my skills and knowledge. Currently, I am studying on platforms such as FlexPark, Alura, Rocketseat, Samsung Ocean, and Danki Code, where I learn techniques and tools to become a more complete developer.
+
+I am interested in working on challenging projects that allow me to apply my skills and knowledge, and I am open to new opportunities that allow me to grow in my career. I believe that the combination of technical knowledge, teamwork, and creative thinking are fundamental to success in any field of work.
+
+I hope to contribute to the success of your team and I am available to discuss more about my skills and experiences.
+</details>
 
 <details open>
 <summary><small>PT-BR</small></summary>
