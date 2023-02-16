@@ -24,7 +24,7 @@
 <!-- BIO:START -->
 
 ### Who am I?
-<details open>
+<details>
 <summary><small>EN-US</small></summary>
 	
 My name is Fernando Meirelles, I am 24 years old and I am currently studying Computer Engineering, in the 5th period. My goal is to become a highly qualified professional in the field I work in, and for that reason, I am always looking for ways to improve my knowledge and evolve as a professional. I believe that knowledge is a valuable asset and by investing in it, I can stand out in the job market.
@@ -36,7 +36,7 @@ I am interested in working on challenging projects that allow me to apply my ski
 I hope to contribute to the success of your team and I am available to discuss more about my skills and experiences.
 </details>
 
-<details>
+<details open>
 <summary><small>PT-BR</small></summary>
 
 Meu nome é Fernando Meirelles, tenho 24 anos e atualmente estou cursando Engenharia da Computação, no 5º período. Meu objetivo é me tornar um profissional altamente qualificado na área em que atuo e, por isso, estou sempre buscando maneiras de melhorar meu conhecimento e evoluir como profissional. Acredito que o conhecimento é um ativo valioso e que, ao investir nele, posso me destacar no mercado de trabalho.
