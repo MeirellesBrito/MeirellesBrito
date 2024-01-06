@@ -11,14 +11,14 @@
   </a>
 </div>
 
-<div>
+<!--<div>
   <a href="https://github.com/MeirellesBrito" target="_blank">
     <img src="https://img.shields.io/github/followers/MeirellesBrito?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/MeirellesBrito" target="_blank">
     <img src="https://img.shields.io/github/stars/MeirellesBrito?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
-</div>
+</div> -->
 
 
 <!-- BIO:START -->
@@ -76,10 +76,8 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <!-- <img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/bem.svg" alt="BEM" title="BEM" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/jquery.svg" alt="jQuery" title="jQuery" height="50" /> -->
-
   </td>
 
-  <tr>
   <td align="center" valign="top">
 
   ### Backend
@@ -99,39 +97,34 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
 
   </td>
-  
-  
-  <td align="center" valign="top">
-
-  ### Database
-
-  <img style="margin: 10px" src="assets/mariadb.svg" alt="Maria DB" title="Maria DB" height="50" />
-  <img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
-  <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
-  <img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
-  <!-- <img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" /> -->
-  </td>
-  </tr>
-
-
-
 
   <tr>
   <td align="center" valign="top">
+  ### Database
+  <img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
+  <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
+   <!--<img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
+  <img style="margin: 10px" src="assets/mariadb.svg" alt="Maria DB" title="Maria DB" height="50" />
+  <img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" /> -->
+  </td>
 
+   <td align="center" valign="top">
   ### Cloud & DevOps
-
   <img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
-  <img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
-  <!-- <img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
+   <!--<img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
+  <img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
   <img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
   <img style="margin: 10px" src="assets/aws-cloudfront.svg" alt="AWS CloudFront" title="AWS CloudFront" height="50" />
   <img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
   <img style="margin: 10px" src="assets/aws-ec2.svg" alt="AWS EC2" title="AWS EC2" height="50" />
   <img style="margin: 10px" src="assets/aws-lambda.svg" alt="AWS Lambda" title="AWS Lambda" height="50" />
   <img style="margin: 10px" src="assets/aws-rds.svg" alt="AWS RDS" title="AWS RDS" height="50" /> -->
-
   </td>
+  </tr>
+
+  
+  <tr>
+  
 
   <td align="center" valign="top">
 
@@ -145,39 +138,10 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <!-- <img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
   <img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
   <img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
-  <img style="margin: 10px" src="assets/jetbrains-phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="50" /> -->
-  <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
+  <img style="margin: 10px" src="assets/jetbrains-phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="50" />
+  <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" /> -->
 
   </td>
-  </tr>
-  <!-- <td align="center" valign="top"> -->
-
-  <!-- ### Hardware
-
-  <img style="margin: 10px" src="assets/arduino.svg" alt="Arduino" title="Arduino" height="50" />
-  <img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
-  <img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" /> -->
-
-  
-  <!-- <td align="center" valign="top"> -->
-
-  <!-- ### AI
-
-  <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
-  <img style="margin: 10px" src="assets/keras.svg" alt="Keras" title="Keras" height="50" />
-  <img style="margin: 10px" src="assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50" />
-  <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" /> -->
-
-  
-
-<!-- 
-  <tr>
-  <td align="center" valign="top">
-  </td>
-
-  </tr> -->
-
-</table>
 
 <br/>
 
@@ -187,14 +151,14 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
 <!-- STATS:START -->
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=MeirellesBrito&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
-</div>
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MeirellesBrito&theme=dracula" alt="My contributions" />
 </div>
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MeirellesBrito&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
 </div>
+<!-- <div align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=MeirellesBrito&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
+</div>-->
 
 <!-- STATS:END -->
 
