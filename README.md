@@ -68,9 +68,9 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
   <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
    <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
-   <img style="margin: 10px" src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" alt="React" title="React" height="50" />
-   <img style="margin: 10px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="React" title="React" height="50" />
-   <img style="margin: 10px" src="https://mui.com/static/icons/180x180.png" alt="React" title="React" height="50" />
+   <img style="margin: 10px" src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" alt="tailwindcss" title="tailwindcss" height="50" />
+   <img style="margin: 10px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" title="bootstrap" height="50" />
+   <img style="margin: 10px" src="https://mui.com/static/icons/180x180.png" alt="mui" title="mui" height="50" />
   <!-- <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" /> -->
@@ -139,8 +139,9 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
 
   <img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
   <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-  <!-- <img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" /> -->
   <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
+  <img style="margin: 10px" src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomia" title="insomia" height="50" />
+  <!-- <img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/jetbrains-rider.svg" alt="Rider" title="Rider" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
   <img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
