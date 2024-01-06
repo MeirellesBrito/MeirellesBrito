@@ -133,8 +133,8 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   
 
   
-<div align="center" valign="top">
-
+<tr>
+ <td align="center" valign="top">
   ### Tools & IDEs
 
   <img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
@@ -148,8 +148,8 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
   <img style="margin: 10px" src="assets/jetbrains-phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="50" />
   <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" /> -->
-
-  </div>
+ </td>
+  </tr>
 <br/>
 
 <!-- SKILLSET:END -->
