@@ -69,6 +69,8 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
    <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
    <img style="margin: 10px" src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" alt="React" title="React" height="50" />
+   <img style="margin: 10px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="React" title="React" height="50" />
+   <img style="margin: 10px" src="https://mui.com/static/icons/180x180.png" alt="React" title="React" height="50" />
   <!-- <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" /> -->
