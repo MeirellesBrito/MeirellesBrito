@@ -129,14 +129,10 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   </td>
   </tr>
 
-  
-  
-
-  
-<tr>
  <td align="center" valign="top">
+	 
   ### Tools & IDEs
-
+	 
   <img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
   <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
   <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
@@ -149,7 +145,6 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <img style="margin: 10px" src="assets/jetbrains-phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="50" />
   <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" /> -->
  </td>
-  </tr>
 <br/>
 
 <!-- SKILLSET:END -->
