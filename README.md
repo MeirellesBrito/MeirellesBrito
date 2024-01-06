@@ -84,23 +84,25 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
 
   <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
   <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+  <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+  <img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
   <!-- <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/prisma.svg" alt="Prisma" title="Prisma" height="50" /> -->
-  <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
   <!-- <img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/serverless.svg" alt="Serverless" title="Serverless" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/spring.svg" alt="Spring" title="Spring" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" /> -->
-  <!-- <img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" /> -->
-  <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-  <img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
+  <!-- <img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" /> 
+  <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />-->
 
   </td>
 
   <tr>
   <td align="center" valign="top">
+
   ### Database
+   
   <img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
   <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
    <!--<img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
@@ -109,7 +111,9 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   </td>
 
    <td align="center" valign="top">
+	   
   ### Cloud & DevOps
+	   
   <img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
    <!--<img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
   <img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
