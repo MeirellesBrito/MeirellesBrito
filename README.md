@@ -1,12 +1,10 @@
-864## Hi! 👋🏻 I'm Ferando Meirelles Brito :)
-
 <div>
   
   <a href="https://github.com/MeirellesBrito" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   
-  <a href="https://www.linkedin.com/in/fernando-meirelles-07a356250/" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-meirelles-cavalcante-07a356250/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
@@ -21,31 +19,9 @@
 </div> -->
 
 
-<!-- BIO:START -->
-
-### Who am I?
-<details>
-<summary><small>EN-US</small></summary>
-	
-My name is Fernando Meirelles, I am 26 years old and I am currently studying Computer Engineering, in the 8º period. My goal is to become a highly qualified professional in the field I work in, and for that reason, I am always looking for ways to improve my knowledge and evolve as a professional. I believe that knowledge is a valuable asset and by investing in it, I can stand out in the job market.
-
-In addition to my undergraduate course, I am dedicating myself to taking courses and participating in projects to improve my skills and knowledge. Currently, I am studying on platforms such as IFPK, Alura, Rocketseat, Samsung Ocean, and Danki Code, where I learn techniques and tools to become a more complete developer.
-
-I am interested in working on challenging projects that allow me to apply my skills and knowledge, and I am open to new opportunities that allow me to grow in my career. I believe that the combination of technical knowledge, teamwork, and creative thinking are fundamental to success in any field of work.
-
-I hope to contribute to the success of your team and I am available to discuss more about my skills and experiences.
-</details>
-
-<details open>
-<summary><small>PT-BR</small></summary>
-
-Meu nome é Fernando Meirelles, tenho 26 anos e atualmente estou cursando Engenharia da Computação, no 8º período. Meu objetivo é me tornar um profissional altamente qualificado na área em que atuo e, por isso, estou sempre buscando maneiras de melhorar meu conhecimento e evoluir como profissional. Acredito que o conhecimento é um ativo valioso e que, ao investir nele, posso me destacar no mercado de trabalho.
-
-Além do meu curso de graduação, estou me dedicando a fazer cursos e participar de projetos para aprimorar minhas habilidades e conhecimentos. Atualmente, estou estudando em plataformas como IFPK, Alura, Rocketseat, Samsung Ocean e Danki Code, onde aprendo técnicas e ferramentas para me tornar um desenvolvedor mais completo.
-
-Tenho interesse em trabalhar em projetos desafiadores que me permitam aplicar minhas habilidades e conhecimentos, e estou aberto a novas oportunidades que me permitam crescer na carreira. Acredito que a combinação de conhecimento técnico, trabalho em equipe e pensamento criativo são fundamentais para o sucesso em qualquer área de atuação.
-
-Espero poder contribuir para o sucesso da sua equipe e estou à disposição para discutir mais sobre minhas habilidades e experiências.
+Oi, sou Fernando Meirelles, tenho 26 anos e estou no 9º período de Engenharia da Computação. Meu objetivo é me tornar um profissional qualificado, sempre buscando aprender e evoluir. Além da graduação, faço cursos em plataformas como IFPK, Alura, Rocketseat, Samsung Ocean e Danki Code para aprimorar minhas habilidades.
+Tenho interesse em trabalhar em projetos desafiadores que me permitam aplicar meus conhecimentos e crescer na carreira. Acredito que a combinação de conhecimento técnico, trabalho em equipe e criatividade é essencial para o sucesso.
+Estou à disposição para conversar mais sobre como posso contribuir para sua equipe.
 		
 </details>
 
@@ -88,7 +64,7 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
   <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
   <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
-  <img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
+  <!--  <img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />-->
   <!-- <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" /> -->
   <!-- <img style="margin: 10px" src="assets/prisma.svg" alt="Prisma" title="Prisma" height="50" /> -->
@@ -107,20 +83,20 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
   ### Database
    
   <img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
-  <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
+ <!--   <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
    <!--<img style="margin: 10px" src="assets/firebase.svg" alt="Firebase" title="Firebase" height="50" />
   <img style="margin: 10px" src="assets/mariadb.svg" alt="Maria DB" title="Maria DB" height="50" />
   <img style="margin: 10px" src="assets/aws-dynamodb.svg" alt="DynamoDB" title="DynamoDB" height="50" /> -->
   </td>
 
-   <td align="center" valign="top">
+ <td align="center" valign="top">
 	   
   ### Cloud & DevOps
-	   
-  <img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
-   <!--<img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
-  <img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
-  <img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
+  
+  <img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />	   
+ <!-- <img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" /> -->
+  <!-- <img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" /> -->
+  <!-- <img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
   <img style="margin: 10px" src="assets/aws-cloudfront.svg" alt="AWS CloudFront" title="AWS CloudFront" height="50" />
   <img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
   <img style="margin: 10px" src="assets/aws-ec2.svg" alt="AWS EC2" title="AWS EC2" height="50" />
@@ -132,7 +108,7 @@ Espero poder contribuir para o sucesso da sua equipe e estou à disposição par
  <td align="center" valign="top">
 	 
   ### Tools & IDEs
-	 
+  <img style="margin: 10px" src="https://designimador.com.br/wp-content/uploads/2022/09/figma-759x500.png" alt="insomia" title="insomia" height="50" />
   <img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
   <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
   <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
